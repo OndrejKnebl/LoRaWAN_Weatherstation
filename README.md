@@ -1,1 +1,2 @@
-# Automatická meteorologická stanice s odesíláním dat do sítě LoRaWAN
+# Automatická meteorologická stanice 
+# s odesíláním dat do sítě LoRaWAN
