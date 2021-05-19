@@ -218,7 +218,7 @@ void measureWindSpeed(){
 
 
 void countWindSpeed(){
-    speedOfWind = impulses * 0.3;                           // 1 impuls = 0.3 m/s
+    speedOfWind = impulses * 0.33;                           // 1 impuls = 0.33 m/s
 
     if(speedOfWind > maxSpeedOfWind){                       // if current speed of wind is maximum speed of wind
         maxSpeedOfWind = speedOfWind;
